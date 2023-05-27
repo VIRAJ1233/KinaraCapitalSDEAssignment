@@ -1,11 +1,11 @@
 # KinaraCapitalSDEAssignment
 
-Programming Langauge - Java 1.8
-Database             - MySQL
-Build tool           - Maven
-Frameworks           - Hibernate, Spring Boot
-Server               - Apachi Tomcat
-API testing tool     - Postman
+Programming Langauge - Java 1.8,
+Database             - MySQL,
+Build tool           - Maven,
+Frameworks           - Hibernate, Spring Boot,
+Server               - Apachi Tomcat,
+API testing tool     - Postman.
 
 
 API Endpoints 
